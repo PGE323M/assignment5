@@ -1,6 +1,6 @@
 # Homework Assignment 5
 
-![Assignment 5](https://github.com/PGE323M/assignment5-solution/workflows/.github/workflows/main.yml/badge.svg)
+![Assignment 5](https://github.com/PGE323M/assignment5/workflows/.github/workflows/main.yml/badge.svg)
 
 Open the [Assignment 5 Jupyter Notebook](assignment5.ipynb) and follow the instructions.
 
