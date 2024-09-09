@@ -1,0 +1,8 @@
+name: assignment5
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11.9
+  - ipython=8.25.0
+  - nbconvert=7.10.0
